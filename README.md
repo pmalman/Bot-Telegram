@@ -1,11 +1,5 @@
 # PlanningUGR
 
-Trabajo de Fin de Grado
-
-Grado Ingeniería Informática 2019-2020
-
-Universidad de Granada
-
 ## Descripción
 
 Con este proyecto se proporciona un Bot de Telegram para estudiantes y otras personas
